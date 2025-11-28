@@ -2,7 +2,7 @@ Keil5编译器 MDK-ARM Plus Version:5.41.0.0
 
 Manage Run中的CMSIS -> CORE版本为5.0.1
 
-如编译出现版本不匹配而报错，请以上版本为为准
+如编译出现版本不匹配而报错，请以上版本为准
 
 注意：
 
