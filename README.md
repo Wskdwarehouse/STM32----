@@ -9,3 +9,5 @@ Manage Run中的CMSIS -> CORE版本为5.0.1
 1、Options for Target -> C/C++ -> Include Paths中的路径修改为自己的本地文件夹路径
 
 2、Manage Run-Time Environment -> Device -> StdPeriph Drivers中添加你所需要的外设驱动
+
+3、STM.hex文件在Output文件夹下
