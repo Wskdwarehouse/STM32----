@@ -1,3 +1,5 @@
+此为STM32F10x的工程模版，仅供参考
+
 Keil5编译器 MDK-ARM Plus Version:5.41.0.0
 
 Manage Run中的CMSIS -> CORE版本为5.0.1
